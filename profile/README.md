@@ -7,7 +7,7 @@
 ## 👨‍👩‍👦‍👦 AAA 팀원소개
 <h2><img src="https://github.com/SWM-AAA/frontend_flutter/assets/26702430/ca9b0469-3f90-4baf-a077-f138b8223d6b" alt="Alt text" width="60px" />  팀원 소개</h2>
 
-![swm](https://www.swmaestro.org/static/sw/images/mainRenewal/logo.png)
+![SWM-LOGO](https://github.com/SWM-AAA/.github/assets/26702430/aeb20f61-b01d-4fc8-8300-841fed4f1991)
 
   <table>
   <tr>
