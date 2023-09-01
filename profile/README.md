@@ -33,7 +33,7 @@
       <td><div><strong>🌟 Flutter 앱 개발</div><div><strong>⭐ User 위치 최적화</div></div><div><strong>🌟 앱 성능 최적화 및 배포</div><div><strong>⭐ Scrum Master</div></td>
   </tr>
   <tr>
-  <td><img src="https://user-images.githubusercontent.com/26702430/264983024-34d1d51e-532c-4a55-9a79-520c912e4d6a.png" alt="Alt text" width="80px" /> </td>
+  <td><img src="https://github.com/SWM-AAA/frontend_flutter/assets/26702430/ec44614f-9eb8-4eba-b3d9-677ca27b49bf.png" alt="Alt text" width="80px" /> </td>
   <td align="center">
       <a href="https://github.com/jihyun-cho-0">
         <sub><b>강환희</b></sub></a><br />
