@@ -4,14 +4,14 @@
 
 ![Alt text](https://user-images.githubusercontent.com/26702430/264970574-5998c5fe-ea7c-4b1b-b3cb-d392fd11992b.png)
 
-## 팀원소개
+## 👨‍👩‍👦‍👦 AAA 팀원소개
 <h2><img src="https://github.com/SWM-AAA/frontend_flutter/assets/26702430/ca9b0469-3f90-4baf-a077-f138b8223d6b" alt="Alt text" width="60px" />  팀원 소개</h2>
 
 ![swm](https://www.swmaestro.org/static/sw/images/mainRenewal/logo.png)
 
   <table>
   <tr>
-  <td style="width: 50px;"><img src="https://user-images.githubusercontent.com/26702430/264988953-741d2e52-a7ce-4221-b6d6-e410f785efbe.png" alt="Alt text" width="50px" /> </td>
+  <td style="width: 50px;"><img src="https://user-images.githubusercontent.com/26702430/264988953-741d2e52-a7ce-4221-b6d6-e410f785efbe.png" alt="Alt text" width="80px" /> </td>
     <td align="center" style="width: 70px;">
       <a href="https://github.com/Carrotww">
         <sub><b>유형석</b></sub></a><br />
