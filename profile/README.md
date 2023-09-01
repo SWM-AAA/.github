@@ -4,13 +4,14 @@
 
 ![Alt text](https://user-images.githubusercontent.com/26702430/264970574-5998c5fe-ea7c-4b1b-b3cb-d392fd11992b.png)
 
-## 👨‍👩‍👧‍👦 AAA 팀원 소개
+## 팀원소개
+<h2><img src="https://github.com/SWM-AAA/frontend_flutter/assets/26702430/ca9b0469-3f90-4baf-a077-f138b8223d6b" alt="Alt text" width="60px" />  팀원 소개</h2>
 
 ![swm](https://www.swmaestro.org/static/sw/images/mainRenewal/logo.png)
 
   <table>
   <tr>
-  <td style="width: 50px;"><img src="https://user-images.githubusercontent.com/26702430/264988953-741d2e52-a7ce-4221-b6d6-e410f785efbe.png" alt="Alt text" width="80px" /> </td>
+  <td style="width: 50px;"><img src="https://user-images.githubusercontent.com/26702430/264988953-741d2e52-a7ce-4221-b6d6-e410f785efbe.png" alt="Alt text" width="50px" /> </td>
     <td align="center" style="width: 70px;">
       <a href="https://github.com/Carrotww">
         <sub><b>유형석</b></sub></a><br />
@@ -29,7 +30,7 @@
         <sub><b>FE</b></sub></a><br/>
         </a>
     </td>
-      <td><div>🌟 Flutter 앱 개발</div><div>⭐ User 위치 최적화</div></div><div>🌟 앱 성능 최적화 및 배포</div><div>⭐ Scrum Master</div></td>
+      <td><div><strong>🌟 Flutter 앱 개발</div><div><strong>⭐ User 위치 최적화</div></div><div><strong>🌟 앱 성능 최적화 및 배포</div><div><strong>⭐ Scrum Master</div></td>
   </tr>
   <tr>
   <td><img src="https://user-images.githubusercontent.com/26702430/264983024-34d1d51e-532c-4a55-9a79-520c912e4d6a.png" alt="Alt text" width="80px" /> </td>
@@ -40,7 +41,7 @@
         <sub><b>FE</b></sub></a><br />
         <a href="https://github.com/KKanghh">🙍‍♂️</a>
     </td>
-      <td><div>🌟 Flutter 앱 개발</div></div><div>⭐ 앱 성능 최적화</div><div>🌟 Mixpanel / user product 분석</div></td>
+      <td><div><strong>🌟 Flutter 앱 개발</div></div><div><strong>⭐ 앱 성능 최적화</div><div><strong>🌟 Mixpanel / user product 분석</div></td>
   </tr>
   <tr>
   <td><img src="https://user-images.githubusercontent.com/26702430/264983024-34d1d51e-532c-4a55-9a79-520c912e4d6a.png" alt="Alt text" width="80px" /> </td>
@@ -51,7 +52,7 @@
         <sub><b>FE</b></sub></a><br />
       <a href="https://github.com/nakevin96">🙍‍♂️</a>
     </td>
-  <td><div>🌟 Flutter 앱 개발</div></td>
+  <td><div><strong>🌟 초기 기획</div><div><strong>🌟 Flutter 앱 개발</div></td>
   </tr>
   </table>
     
