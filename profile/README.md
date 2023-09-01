@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🐤Team_AAA%&fontSize=90)
+[앱아이콘-zeppy (1)](https://github.com/SWM-AAA/.github/assets/26702430/0bfdadad-6d9e-4cee-b892-1b32111a4115)
 # 👋 We are the 14th Software Maestro trainees 👋
-## 👨‍👩‍👧‍👦 팀원 소개
+## 👨‍👩‍👧‍👦 팀원 소개!
+
 <table>
   <tr>
     <td align="center">
