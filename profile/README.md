@@ -44,7 +44,8 @@
       <td><div><strong>🌟 Flutter 앱 개발</div></div><div><strong>⭐ 앱 성능 최적화</div><div><strong>🌟 Mixpanel / user product 분석</div></td>
   </tr>
   <tr>
-  <td><img src="https://user-images.githubusercontent.com/26702430/264983024-34d1d51e-532c-4a55-9a79-520c912e4d6a.png" alt="Alt text" width="80px" /> </td>
+  <td>  <img width="80" alt="cys-notion-profile" src="https://github.com/SWM-AAA/.github/assets/26702430/6a0fbf85-bd08-4870-b336-1e3b7570ba79">
+  </td>
   <td align="center">
       <a href="https://github.com/nakevin96">
         <sub><b>최윤석</b></sub></a><br />
