@@ -121,7 +121,7 @@
 
 ## 🏗️ 아키텍처
 
-![아키텍처1]([https://github.com/Carrotww/Carrotww/assets/104682050/4af28363-e9c5-4b30-b335-44725abad5ca](https://github.com/SWM-AAA/.github/assets/104682050/5b3fbbc3-8849-4511-9ff2-8d4bb5dfcc3f)https://github.com/SWM-AAA/.github/assets/104682050/5b3fbbc3-8849-4511-9ff2-8d4bb5dfcc3f)
+![아키텍처1](https://github.com/SWM-AAA/.github/assets/104682050/5b3fbbc3-8849-4511-9ff2-8d4bb5dfcc3f)
 
 ## 📋 API 설계
 
