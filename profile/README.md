@@ -121,7 +121,7 @@
 
 ## 🏗️ 아키텍처
 
-![아키텍처1](https://github.com/SWM-AAA/.github/assets/104682050/5b3fbbc3-8849-4511-9ff2-8d4bb5dfcc3f)
+![아키텍처1](https://github.com/SWM-AAA/.github/assets/104682050/5cac71e9-157e-44b7-b431-006516adf2b4)
 
 ## 📋 API 설계
 
