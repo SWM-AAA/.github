@@ -5,9 +5,34 @@
 ![Alt text](https://user-images.githubusercontent.com/26702430/264970574-5998c5fe-ea7c-4b1b-b3cb-d392fd11992b.png)
 
 ## 👨‍👩‍👦‍👦 AAA 팀원소개
-<h2><img src="https://github.com/SWM-AAA/frontend_flutter/assets/26702430/ca9b0469-3f90-4baf-a077-f138b8223d6b" alt="Alt text" width="60px" />  팀원 소개</h2>
+<h3><img src="https://github.com/SWM-AAA/frontend_flutter/assets/26702430/ca9b0469-3f90-4baf-a077-f138b8223d6b" alt="Alt text" width="60px" />  2024.01 ~ </h2>
 
-![SWM-LOGO](https://github.com/SWM-AAA/.github/assets/26702430/aeb20f61-b01d-4fc8-8300-841fed4f1991)
+<table>
+  <tr>
+    <td align="center"><img src="https://user-images.githubusercontent.com/26702430/264988953-741d2e52-a7ce-4221-b6d6-e410f785efbe.png" alt="Alt text" width="120px" /></td>
+    <td align="center"><img src="https://github.com/SWM-AAA/.github/assets/68915238/ce5a3c51-60e5-4fb4-8bb1-85a2fbca65ea" alt="Alt text" width="120px"></td>
+    <td align="center"><img src="https://github.com/SWM-AAA/.github/assets/68915238/2e389a08-5647-4091-998c-dcd3602dd350" alt="Alt text" width="120px" /></td>
+  </tr>
+  <tr>
+     <td align="center" style="width: 120px;">
+       <p><b>CAPTAIN BE</b>&nbsp;<a href="https://github.com/Carrotww">유형석</a></p>
+    </td>
+    <td align="center" style="width: 120px;">
+      <p><b>MEMBER BE</b>&nbsp;<a href="https://github.com/imdayoung">이다영</a></p>
+    </td>
+    <td align="center" style="width: 120px;">
+      <p><b>MEMBER FE</b>&nbsp;<a href="https://github.com/mouse0429">김민지</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td><div><strong>🌟 Spring Boot BE 서버 개발</strong></div><div><strong>⭐ BE 아키텍처 설계 및 배포</strong></div><div><strong>🌟 DB 설계</strong></div><div><strong>⭐ 미디어 서버 구축</strong></div></td>
+    <td><div><strong>🌟 Spring Boot BE 서버 개발</strong></div><div><strong>
+    <td><div><strong>🌟 Android 앱 개발 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></td>
+  </tr>
+</table>
+      
+<br/>
+<h3><img src="https://github.com/SWM-AAA/.github/assets/26702430/aeb20f61-b01d-4fc8-8300-841fed4f1991" alt="소프트웨어마에스트로 로고" height="20px" /> 2023.06 ~ 2023.12 </h3>
 
   <table>
   <tr>
